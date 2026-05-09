@@ -1,4 +1,4 @@
-# ML-Final-Project
+# Mind the Gap: Graph Neural Networks for NYC Transit Equity
 New York City has one of the most extensive public transit systems in the world, and yet millions of
 residents live beyond walking distance of any subway station. The MTA’s proposed Interborough Express
 (IBX) is itself an acknowledgement that the existing network falls short for cross-borough commuting. The IBX, which the MTA claims will benefit traditionally underserved communities, would run along the southern part of Brooklyn and Queens, connecting neighborhoods that currently have no direct transit link (MTA, 2022).
